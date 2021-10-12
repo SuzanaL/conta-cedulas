@@ -11,12 +11,12 @@ Você receberá um valor inteiro **N** (0 < **N** < 1000000).
 Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha. 
 
 <table> 
-    <tr>
+    <tr bgcolor="#FFC0CB">
         <td><b>Exemplo de Entrada</b></td>
         <td><b>Exemplo de Saída</b></td>
     </tr>
     <tr>
-        <td>576</td>
+        <td><b>576</b></td>
         <td>
             <b>576</b><br>
    			5 notas(s) de R$100,00<br>
@@ -29,7 +29,7 @@ Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, se
         </td>
     </tr>
      <tr>
-        <td>11257</td>
+        <td><b>11257</b></td>
         <td>
             <b>11257</b><br>
    			112 notas(s) de R$100,00<br>
