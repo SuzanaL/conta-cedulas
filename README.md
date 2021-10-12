@@ -18,27 +18,27 @@ Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, se
     <tr>
         <td>576</td>
         <td>
-            576<br>
-   			5 notas(s) de R$100,00
-            1 nota(s) de R$50,00
-            1 nota(s) de R$20,00
-            0 notas(s) de R$10,00
-            1 nota(s) de R$5,00
-            0 notas(s) de R$2,00
-            1 nota(s) de R$1,00
+            <b>576</b><br>
+   			5 notas(s) de R$100,00<br>
+            1 nota(s) de R$50,00<br>
+            1 nota(s) de R$20,00<br>
+            0 notas(s) de R$10,00<br>
+            1 nota(s) de R$5,00<br>
+            0 notas(s) de R$2,00<br>
+            1 nota(s) de R$1,00<br>
         </td>
     </tr>
      <tr>
         <td>11257</td>
         <td>
-            11257<br>
-   			112 notas(s) de R$100,00
-            1 nota(s) de R$50,00
-            0 nota(s) de R$20,00
-            0 notas(s) de R$10,00
-            1 nota(s) de R$5,00
-            1 notas(s) de R$2,00
-            0 nota(s) de R$1,00
+            <b>11257</b><br>
+   			112 notas(s) de R$100,00<br>
+            1 nota(s) de R$50,00<br>
+            0 nota(s) de R$20,00<br>
+            0 notas(s) de R$10,00<br>
+            1 nota(s) de R$5,00<br>
+            1 notas(s) de R$2,00<br>
+            0 nota(s) de R$1,00<br>
         </td>
     </tr>
 </table>
