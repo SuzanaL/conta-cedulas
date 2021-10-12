@@ -11,9 +11,9 @@ Você receberá um valor inteiro **N** (0 < **N** < 1000000).
 Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha. 
 
 <table> 
-    <tr bgcolor="#FFC0CB">
-        <td><b>Exemplo de Entrada</b></td>
-        <td><b>Exemplo de Saída</b></td>
+    <tr>
+        <td bgcolor="#CCC"><b>Exemplo de Entrada</b></td>
+        <td bgcolor="#CCC"><b>Exemplo de Saída</b></td>
     </tr>
     <tr>
         <td><b>576</b></td>
