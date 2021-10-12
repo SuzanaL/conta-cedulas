@@ -12,8 +12,8 @@ Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, se
 
 <table> 
     <tr>
-        <td bgcolor="#CCC"><b>Exemplo de Entrada</b></td>
-        <td bgcolor="#CCC"><b>Exemplo de Saída</b></td>
+        <td><b>Exemplo de Entrada</b></td>
+        <td><b>Exemplo de Saída</b></td>
     </tr>
     <tr>
         <td><b>576</b></td>
